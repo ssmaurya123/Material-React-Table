@@ -1,8 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Run App Locally : npm run dev 
+Features:
+Added table filter for name (made it debounce)
+Built functionality for filter according to roles.only selected roles data will be shown in table.
+Added sorting in the column based on age of person.
+Implemented Pagination.
+Row selection functionality enabled.
+Displaying a image of person in rows.
