@@ -1,0 +1,842 @@
+[
+  {
+    "name": "JohnDoe",
+    "username":"@johndoe",
+    "email": "johndoe@company.com",
+    "status": "Working",
+    "Role": "Product Manager",
+    "Teams": ["Design", "Product", "HR","Product", "Development","HR","Product", "Development"],
+    "Age": 35,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "JaneSmith",
+    "username":"@JaneSmith",
+    "email": "janesmith@company.com",
+    "status": "On Leave",
+    "Role": "Software Engineer",
+    "Teams": ["Development","Product", "Writing","Product", "Development","HR","Product", "Development"],
+    "Age": 28,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "MikeBrown",
+    "username":"@MikeBrown",
+    "email": "mikebrown@company.com",
+    "status": "Working",
+    "Role": "UX Designer",
+    "Teams": ["Design", "Product", "HR","Product", "Development"],
+    "Age": 30,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "SarahJones",
+    "username":"@sarahjones",
+    "email": "sarahjones@company.com",
+    "status": "Resigned",
+    "Role": "Product Designer",
+    "Teams": ["Design", "Product", "HR","Product", "Development"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "RobertWilson",
+    "username":"@robertwilson",
+    "email": "robertwilson@company.com",
+    "status": "Working",
+    "Role": "Backend Developer",
+    "Teams": ["Design", "Product", "HR","Product", "Development"],
+    "Age": 29,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "EmilyTaylor",
+    "username":"@emilytaylor",
+    "email": "emilytaylor@company.com",
+    "status": "On Leave",
+    "Role": "Marketing Manager",
+    "Teams": ["Design", "Product", "HR","Product", "Development"],
+    "Age": 37,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "DavidLee",
+    "username":"@davidlee",
+    "email": "davidlee@company.com",
+    "status": "Working",
+    "Role": "Frontend Developer",
+    "Teams": ["Design", "Product", "HR","Product", "Development"],
+    "Age": 27,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "SophiaWhite",
+    "username":"@sophiawhite",
+    "email": "sophiawhite@company.com",
+    "status": "Working",
+    "Role": "HR Manager",
+    "Teams": ["HR","Product", "Development"],
+    "Age": 40,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "JamesAnderson",
+    "username":"@jamesanderson",
+    "email": "jamesanderson@company.com",
+    "status": "Resigned",
+    "Role": "Project Manager",
+    "Teams": ["Product", "Development"],
+    "Age": 38,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "OliviaMartin",
+    "username":"@oliviamartin",
+    "email": "oliviamartin@company.com",
+    "status": "Working",
+    "Role": "Business Analyst",
+    "Teams": ["Product"],
+    "Age": 33,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "DanielThomas",
+    "username":"@danielthomas",
+    "email": "danielthomas@company.com",
+    "status": "On Leave",
+    "Role": "DevOps Engineer",
+    "Teams": ["Development", "Infrastructure"],
+    "Age": 31,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AvaJackson",
+    "username":"@avajackson",
+    "email": "avajackson@company.com",
+    "status": "Working",
+    "Role": "QA Engineer",
+    "Teams": ["Development", "Testing"],
+    "Age": 29,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "LiamHarris",
+    "username":"@liamharris",
+    "email": "liamharris@company.com",
+    "status": "Resigned",
+    "Role": "Scrum Master",
+    "Teams": ["Product", "Development"],
+    "Age": 36,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "MiaClark",
+    "username":"@miaclark",
+    "email": "miaclark@company.com",
+    "status": "Working",
+    "Role": "Customer Support",
+    "Teams": ["Support"],
+    "Age": 25,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "NoahLewis",
+    "username":"@noahlewis",
+    "email": "noahlewis@company.com",
+    "status": "Working",
+    "Role": "Full Stack Developer",
+    "Teams": ["Development"],
+    "Age": 26,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "CharlotteRobinson",
+    "username":"@charlotterobinson",
+    "email": "charlotterobinson@company.com",
+    "status": "On Leave",
+    "Role": "Technical Writer",
+    "Teams": ["Documentation"],
+    "Age": 34,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "WilliamWalker",
+    "username":"@williamwalker",
+    "email": "williamwalker@company.com",
+    "status": "Working",
+    "Role": "System Administrator",
+    "Teams": ["IT"],
+    "Age": 39,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "EthanHall",
+    "username":"@ethanhall",
+    "email": "ethanhall@company.com",
+    "status": "Resigned",
+    "Role": "SEO Specialist",
+    "Teams": ["Marketing"],
+    "Age": 28,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AmeliaYoung",
+    "username":"@ameliayoung",
+    "email": "ameliayoung@company.com",
+    "status": "Working",
+    "Role": "Data Analyst",
+    "Teams": ["Analytics"],
+    "Age": 30,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "MasonKing",
+    "username":"@masonking",
+    "email": "masonking@company.com",
+    "status": "On Leave",
+    "Role": "Graphic Designer",
+    "Teams": ["Design"],
+    "Age": 29,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "IsabellaWright",
+    "username":"@isabellawright",
+    "email": "isabellawright@company.com",
+    "status": "Working",
+    "Role": "Finance Manager",
+    "Teams": ["Finance"],
+    "Age": 42,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "LoganScott",
+    "username":"@loganscott",
+    "email": "loganscott@company.com",
+    "status": "Working",
+    "Role": "Android Developer",
+    "Teams": ["Development"],
+    "Age": 27,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "HarperGreen",
+    "username":"@harpergreen",
+    "email": "harpergreen@company.com",
+    "status": "Resigned",
+    "Role": "Sales Executive",
+    "Teams": ["Sales"],
+    "Age": 31,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "BenjaminAdams",
+    "username":"@benjaminadams",
+    "email": "benjaminadams@company.com",
+    "status": "On Leave",
+    "Role": "Security Engineer",
+    "Teams": ["Security"],
+    "Age": 35,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "EllaNelson",
+    "username":"@ellanelson",
+    "email": "ellanelson@company.com",
+    "status": "Working",
+    "Role": "Content Writer",
+    "Teams": ["Marketing"],
+    "Age": 26,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AlexanderCarter",
+    "username":"@alexandercarter",
+    "email": "alexandercarter@company.com",
+    "status": "Resigned",
+    "Role": "Database Administrator",
+    "Teams": ["IT"],
+    "Age": 37,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "MadisonMitchell",
+    "username":"@madisonmitchell",
+    "email": "madisonmitchell@company.com",
+    "status": "Working",
+    "Role": "Operations Manager",
+    "Teams": ["Operations"],
+    "Age": 41,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "LucasPerez",
+    "username":"@lucasperez",
+    "email": "lucasperez@company.com",
+    "status": "On Leave",
+    "Role": "Cloud Engineer",
+    "Teams": ["Infrastructure"],
+    "Age": 33,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "AidenRoberts",
+    "username":"@aidenroberts",
+    "email": "aidenroberts@company.com",
+    "status": "Working",
+    "Role": "Software Architect",
+    "Teams": ["Development"],
+    "Age": 45,
+    "image":"Avatar.png"
+  },
+  {
+    "name": "GraceEvans",
+    "username":"@graceevans",
+    "email": "graceevans@company.com",
+    "status": "Working",
+    "Role": "Recruiter",
+    "Teams": ["HR"],
+    "Age": 32,
+    "image":"Avatar.png"
+  }
+]
