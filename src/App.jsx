@@ -25,16 +25,13 @@ const DebouncedInput = ({ value: initialValue, onChange, debounce = 500, ...prop
 };
 
 function App() {
-  // State for selected roles to filter
   const [selectedRoles, setSelectedRoles] = useState([]);
 
-  // Filter data based on selected roles. If none selected, show all data.
   const filteredData = useMemo(() => {
     if (selectedRoles.length === 0) return Person;
     return Person.filter((person) => selectedRoles.includes(person.Role));
   }, [selectedRoles]);
 
-  // Get a unique list of roles from the Person data for the dropdown
   const roles = useMemo(() => {
     const roleSet = new Set(Person.map((item) => item.Role));
     return Array.from(roleSet);
